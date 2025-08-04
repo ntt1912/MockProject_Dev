@@ -192,6 +192,6 @@ cat /tmp/python_ver.log
 
 ## Contact
 
-Author: **@ntt1912**\
+Author: [@ntt1912](https://github.com/ntt1912)  
 
 
