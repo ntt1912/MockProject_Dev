@@ -173,15 +173,11 @@ endef
 
 ## Verifying Results
 
+Test with raspberry pi 4
+
 ```sh
 check_python
 cat /tmp/python_ver.log
-```
-
-Or, from inside Docker:
-
-```sh
-make run
 ```
 
 ---
